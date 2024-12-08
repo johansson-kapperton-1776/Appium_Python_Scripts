@@ -1,0 +1,46 @@
+{
+  "searchIcon": {
+    "locatorType": "accessibility id",
+    "value": "Search"
+  },
+  "searchBar": {
+    "locatorType": "id",
+    "value": "com.google.android.youtube:id/search_edit_text"
+  },
+  "firstVideo": {
+    "locatorType": "xpath",
+    "value": "//android.view.ViewGroup[@content-desc][1]/android.widget.ImageView[2]"
+  },
+  "settingsIcon": {
+    "locatorType": "xpath",
+    "value": "//android.widget.ImageView[@content-desc='More options']"
+  },
+  "playButton": {
+    "locatorType": "xpath",
+    "value": "//android.widget.ImageView[@content-desc='Play video']"
+  },
+  "fullscreenButton": {
+    "locatorType": "xpath",
+    "value": "//android.widget.ImageView[@content-desc='Enter fullscreen']"
+  },
+  "timeRecording": {
+    "locatorType": "id",
+    "value": "com.google.android.youtube:id/timestamps_container"
+  },
+  "qualityOption": {
+    "locatorType": "xpath",
+    "value": "//android.support.v7.widget.RecyclerView/android.view.ViewGroup[1]/android.widget.ImageView"
+  },
+  "advancedSection": {
+    "locatorType": "xpath",
+    "value": "//android.support.v7.widget.RecyclerView[@resource-id='com.google.android.youtube:id/bottom_sheet_list']/android.view.ViewGroup/android.view.ViewGroup[4]"
+  },
+  "highestResolutionOption": {
+    "locatorType": "xpath",
+    "value": "//android.support.v7.widget.RecyclerView[@resource-id='com.google.android.youtube:id/bottom_sheet_list']/android.view.ViewGroup/android.view.ViewGroup[1]"
+  },
+  "bufferIndicator": {
+    "locatorType": "id",
+    "value": "com.google.android.youtube:id/buffering_indicator"
+  }
+}

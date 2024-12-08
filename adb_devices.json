@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "deviceName": "Galaxy S24 Ultra",
+      "platformName": "Android",
+      "platformVersion": "14",
+      "appPackage": "org.zwanoo.android.speedtest",
+      "appActivity": "com.ookla.mobile4.screens.main.MainActivity",
+      "noReset": true,
+      "fullReset": false,
+      "deviceUniqueId": "S24Ultra",
+      "deviceUID": "R3CW70XGZXJ",
+      "ipAddress": "192.168.2.196"
+    },
+    {
+      "deviceName": "Galaxy S21 Ultra",
+      "platformName": "Android",
+      "platformVersion": "14",
+      "appPackage": "org.zwanoo.android.speedtest",
+      "appActivity": "com.ookla.mobile4.screens.main.MainActivity",
+      "noReset": true,
+      "fullReset": false,
+      "deviceUniqueId": "S21Ultra",
+      "deviceUID": "R3CNC0BE21W",
+      "ipAddress": "192.168.2.164"
+    },
+    {
+      "deviceName": "Galaxy Note 10+",
+      "platformName": "Android",
+      "platformVersion": "12",
+      "appPackage": "org.zwanoo.android.speedtest",
+      "appActivity": "com.ookla.mobile4.screens.main.MainActivity",
+      "noReset": true,
+      "fullReset": false,
+      "deviceUniqueId": "Note10Plus",
+      "deviceUID": "RF8M826P5FX",
+      "ipAddress": "192.168.2.209"
+    }
+  ]
+}
