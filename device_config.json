@@ -1,0 +1,13 @@
+{
+    "devices": [
+        {
+            "platform_name": "Android",
+            "platform_version": "14",
+            "device_name": "S22_ultra",
+            "udid": "R3CR804FECF",
+            "app_package": "com.google.android.youtube",
+            "app_activity": "com.google.android.youtube.HomeActivity",
+            "no_reset": true
+        }
+    ]
+}

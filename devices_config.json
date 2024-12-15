@@ -1,0 +1,13 @@
+[
+    {
+      "deviceName": "Galaxy S24 Ultra",
+      "platformName": "Android",
+      "platformVersion": "14",
+      "appPackage": "com.nest.android",
+      "appActivity": "com.nest.android.activity.MainActivity",
+      "noReset": true,
+      "fullReset": false,
+      "deviceUniqueId": "S24Ultra",
+      "deviceUID": "R3CR804FECF"
+    }
+]

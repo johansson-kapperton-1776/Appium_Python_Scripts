@@ -1,15 +1,15 @@
 {
   "devices": [
     {
-      "deviceName": "Galaxy A54",
+      "deviceName": "Galaxy A55",
       "platformName": "Android",
       "platformVersion": "14",
-      "appPackage": "com.samsung.android.fast",
-      "appActivity": "com.samsung.android.fast.ui.MainActivity",
+      "appPackage": "com.android.settings",
+      "appActivity": "com.android.settings.Settings",
       "noReset": true,
       "fullReset": false,
-      "deviceUniqueId": "A54",
-      "deviceUID": "R3CTB0F8R9N"
+      "deviceUniqueId": "A55",
+      "deviceUID": "R5CX33PG3KA"
     }
   ]
 }
